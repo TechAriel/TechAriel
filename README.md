@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm [Gabriel Oduor]!
 
-<!--
-**TechAriel/TechAriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about, Data Science, Machine Learning, Technology, Programming, and constantly learning new things. Here's a little about me:
 
-Here are some ideas to get you started:
+##  I’m currently working on ...
+- Open-source projects
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  I’m currently learning ...
+- SQL and SQlite 
+- Python and it's data visualization and analysis libraries
+- Machine Learning Libraries
+
+## 💬 Ask me about ...
+- SQL
+- Python programming
+- -Machine Learning algorithms
+
+## 📫 How to reach me:
+- LinkedIn: [My LinkedIn](linkedin.com/in/gabriel-oduor)
+- Email: gabriel.okoth101@gmail.com
+
+## ⚡ Fun fact:
+- I love to play chess and participate in coding challenges.
