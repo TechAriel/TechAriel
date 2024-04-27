@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm passionate about, Data Science, Data Engineeri
 - SQL and SQlite 
 - Python and it's data visualization and analysis libraries
 - Machine Learning Libraries
+- Big Data Technologies (Spark, Hadoop, MapReduce & MongoDB)
 
 ## Ask me about ...
 - SQL
