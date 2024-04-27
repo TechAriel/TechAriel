@@ -17,8 +17,11 @@ Welcome to my GitHub profile! I'm passionate about, Data Science, Data Engineeri
 - Python programming
 - Data Engineering/ Architecture
 - 
-##  How to reach me:
+##  How to reach me
 - LinkedIn: [My LinkedIn](linkedin.com/in/gabriel-oduor)
 - Email: gabriel.okoth101@gmail.com
+
+## Fun fact
+- I love solving puzzles and challenging myself with complex problems
 
 
