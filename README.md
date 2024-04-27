@@ -1,4 +1,4 @@
-# Hello, I'm [Gabriel Oduor]!
+# Hello, I'm Gabriel Oduor!
 
 Welcome to my GitHub profile! I'm passionate about, Data Science, Data Engineering, Machine Learning, Technology, Programming, and constantly learning new things. Here's a little about me:
 
