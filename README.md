@@ -14,11 +14,10 @@ Welcome to my GitHub profile! I'm passionate about, Data Science, Machine Learni
 ## 💬 Ask me about ...
 - SQL
 - Python programming
-- -Machine Learning algorithms
-
-## 📫 How to reach me:
+- Data Engineering/ Architecture
+- 
+##  How to reach me:
 - LinkedIn: [My LinkedIn](linkedin.com/in/gabriel-oduor)
 - Email: gabriel.okoth101@gmail.com
 
-## ⚡ Fun fact:
-- I love to play chess and participate in coding challenges.
+
