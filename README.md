@@ -65,14 +65,14 @@ building hands-on projects to strengthen my engineering expertise.
 - Cloud-based data platforms
 
 ## What You’ll Find on This GitHub
-- Azure learning projects and cloud experiments
+- Azure projects and cloud experiments
 - Data engineering exercises and pipelines
 - SQL, Spark, and analytics-focused repositories
 - Well-documented engineering learning milestones
 
 *Always open to collaboration and engineering-focused discussions.*
 ##  How to reach me
-- LinkedIn: [My LinkedIn](linkedin.com/in/gabriel-oduor)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/gabriel-oduor/)
 - Email: gabriel.okoth101@gmail.com
 
 ## Fun fact
