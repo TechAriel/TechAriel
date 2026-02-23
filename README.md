@@ -1,81 +1,117 @@
 # Welcome to My GitHub Profile!
 
 I’m a **Data Engineer** with a strong background in data platforms, analytics, and large-scale data processing.
-My focus is on building **reliable, scalable, and well-designed data systems** that support analytics,
-reporting, and downstream machine learning and data science workloads.
 
-I enjoy working with **distributed systems, cloud platforms, and modern data stacks**, and I’m continuously
-building hands-on projects to strengthen my engineering expertise.
+My focus is on building **reliable, scalable, and well-architected data systems** that support analytics,
+reporting, and downstream machine learning workloads.
+
+I enjoy working with distributed systems, cloud platforms, and modern data stacks, and I continuously
+build hands-on projects to deepen my engineering expertise.
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900) – Passed
+- Microsoft Certified: Azure Data Fundamentals (DP-900) – In Progress
+
+---
 
 ## What I’m Currently Working On
-- Hands-on **Azure Fundamentals** projects (documented on GitHub)
-- Cloud-based data engineering workflows
-- Designing and improving data pipelines and data models
+
+- Hands-on Azure Data Fundamentals (DP-900) projects
+- Cloud-based relational and non-relational data architectures
+- Designing and improving scalable data pipelines
+- Expanding cloud-native data engineering capabilities
+
+---
 
 ## Education
+
 **Master’s Degree in Artificial Intelligence & Data Science**
 
+---
+
 ## Engineering-First Background
+
 - Strong foundation in data engineering principles and data architecture
 - Experience preparing and managing data for analytics and ML systems
 - Understanding of AI principles and ethics from an engineering perspective
 - Exposure to AI-driven healthcare systems, with emphasis on data reliability and governance
-  
 
-##  What I’m Currently Learning
-- **Azure Fundamentals** (compute, networking, storage, security)
-- Azure-based data engineering architectures
+---
 
-## Technical Skills & Tools
+## Current Learning Focus
+
+- Azure data services (SQL, storage, analytics)
+- Relational vs non-relational data in cloud environments
+- Managed PaaS database systems
+- Secure and scalable data platform design
+
+---
+
+## 🛠 Technical Skills & Tools
 
 ### Data Engineering
-- Apache Spark & **Spark SQL**
+- Apache Spark & Spark SQL
 - Databricks (Data Engineering workloads)
-- Big Data technologies (Hadoop, MapReduce)
-- Data pipeline design, orchestration, and data modelling
-- NoSQL databases (**MongoDB**)
+- Hadoop & MapReduce
+- Data pipeline design, orchestration, and modelling
+- NoSQL databases (MongoDB)
 
 ### SQL & Databases
-- SQL (Beginner → **Advanced**)
-- **Oracle SQL**, **MySQL**,**PostgreSQL**, **Delta Lake**
+- SQL (Advanced)
+- Oracle SQL, MySQL, PostgreSQL, Delta Lake
 - Relational and NoSQL database systems
-- Query optimization and analytical workloads
+- Query optimization & analytical workloads
 
 ### Analytics & BI
-- **Power BI**
+- Power BI
 - DAX (Data Analysis Expressions)
 - Data modelling for BI
 - Excel (Advanced formulas, Power Query, Pivot Tables)
 
 ### Programming
-- Python for data analytics (Seaborn, Matplotlib), data science (Tensorflow, PyTorch, Scikit-Learn), and data engineering (NumPy, Pandas)
-- Data analysis and visualization libraries
+- Python for data analytics and engineering
+  - NumPy, Pandas
+  - Matplotlib, Seaborn
+  - TensorFlow, PyTorch, Scikit-Learn
 
 ### Cloud & Platforms
-- **Microsoft Azure** (Fundamentals)
-- **Amazon Web Services (AWS)** – foundational knowledge
+- Microsoft Azure (AZ-900 Certified)
+- Azure Data Services (DP-900 Track)
+- Amazon Web Services (AWS – foundational knowledge)
+- Power Platform ecosystem
 
-- Power Platform (Power BI, Power Automate, Power Pages, Power Apps, Power Virtual Agents, Dataverse, AI Builders & Connectors)
+---
 
-## Ask me about ...
+## What You’ll Find on This GitHub
+
+- Azure infrastructure projects (completed AZ-900 track)
+- Azure data-focused labs and relational database exploration
+- Data engineering exercises and pipelines
+- SQL, Spark, and analytics-focused repositories
+- Structured, well-documented engineering milestones
+
+---
+
+## Ask Me About
+
 - Data Engineering & Data Architecture
 - SQL & database design (including Oracle SQL)
 - Apache Spark, Spark SQL, and Databricks
 - Power BI, DAX, and analytics solutions
 - Cloud-based data platforms
 
-## What You’ll Find on This GitHub
-- Azure projects and cloud experiments
-- Data engineering exercises and pipelines
-- SQL, Spark, and analytics-focused repositories
-- Well-documented engineering learning milestones
+---
 
-*Always open to collaboration and engineering-focused discussions.*
-##  How to reach me
+## How to Reach Me
+
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/gabriel-oduor/)
 - Email: gabriel.okoth101@gmail.com
 
-## Fun fact
-- I love solving puzzles and challenging myself with complex problems
+---
 
+## 🧠 Fun Fact
 
+I enjoy solving puzzles and challenging myself with complex problems.
