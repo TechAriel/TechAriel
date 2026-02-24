@@ -112,6 +112,6 @@ build hands-on projects to deepen my engineering expertise.
 
 ---
 
-## 🧠 Fun Fact
+## Fun Fact
 
 I enjoy solving puzzles and challenging myself with complex problems.
