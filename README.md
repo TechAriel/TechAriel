@@ -65,7 +65,7 @@ Key repositories include:
 
 ---
 
-## 🛠 Technical Skills & Tools
+##  Technical Skills & Tools
 
 ### Data Engineering
 - Apache Spark & Spark SQL
