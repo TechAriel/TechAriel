@@ -8,27 +8,42 @@ reporting, and downstream machine learning workloads.
 I enjoy working with distributed systems, cloud platforms, and modern data stacks, and I continuously
 build hands-on projects to deepen my engineering expertise.
 
----
-
-## Certifications
-
-- Microsoft Certified: Azure Fundamentals (AZ-900) – Passed
-- Microsoft Certified: Azure Data Fundamentals (DP-900) – In Progress
-
----
-
-## What I’m Currently Working On
-
-- Hands-on Azure Data Fundamentals (DP-900) projects
-- Cloud-based relational and non-relational data architectures
-- Designing and improving scalable data pipelines
-- Expanding cloud-native data engineering capabilities
+Currently focusing on **modern data engineering architectures using Azure and Microsoft Fabric**, including Lakehouse platforms, data pipelines, and scalable analytics systems.
 
 ---
 
 ## Education
 
 **Master’s Degree in Artificial Intelligence & Data Science**
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900) – Passed  
+- Microsoft Certified: Azure Data Fundamentals (DP-900) – Passed  
+- Microsoft Fabric Data Engineer Associate (DP-700) – In Progress
+
+---
+
+## What I’m Currently Working On
+
+- Microsoft Fabric Data Engineering labs (DP-700 track)
+- Lakehouse architecture and modern analytics platforms
+- Designing scalable data pipelines and ingestion workflows
+- Expanding cloud-native data engineering capabilities across Azure and Fabric
+
+---
+
+## Engineering Project Repositories
+
+My GitHub documents hands-on learning and engineering exercises across modern cloud data platforms.
+
+Key repositories include:
+
+- **Azure Fundamentals Projects** – Core Azure infrastructure exercises and governance concepts
+- **Azure Data Fundamentals (DP-900)** – Relational and non-relational data exploration using Azure SQL, Cosmos DB, and analytics services
+- **Microsoft Fabric Data Engineering (DP-700)** – Lakehouse architecture, data ingestion pipelines, and modern analytics workflows in Microsoft Fabric
 
 ---
 
@@ -79,7 +94,8 @@ build hands-on projects to deepen my engineering expertise.
 
 ### Cloud & Platforms
 - Microsoft Azure (AZ-900 Certified)
-- Azure Data Services (DP-900 Track)
+- Azure Data Services (DP-900 Certified)
+- Microsoft Fabric (DP-700 Learning Track)
 - Amazon Web Services (AWS – foundational knowledge)
 - Power Platform ecosystem
 
@@ -87,11 +103,12 @@ build hands-on projects to deepen my engineering expertise.
 
 ## What You’ll Find on This GitHub
 
-- Azure infrastructure projects (completed AZ-900 track)
-- Azure data-focused labs and relational database exploration
-- Data engineering exercises and pipelines
+- Azure infrastructure projects (AZ-900 learning track)
+- Azure data platform exercises (DP-900)
+- Microsoft Fabric data engineering labs (DP-700)
+- Data engineering pipelines and ingestion workflows
 - SQL, Spark, and analytics-focused repositories
-- Structured, well-documented engineering milestones
+- Structured, well-documented engineering projects and learning milestones
 
 ---
 
