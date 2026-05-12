@@ -22,7 +22,7 @@ Currently focusing on **modern data engineering architectures using Azure and Mi
 
 - Microsoft Certified: Azure Fundamentals (AZ-900) – Passed  
 - Microsoft Certified: Azure Data Fundamentals (DP-900) – Passed  
-- Microsoft Fabric Data Engineer Associate (DP-700) – In Progress
+- Microsoft Fabric Data Engineer Associate (DP-700) – Passed
 
 ---
 
